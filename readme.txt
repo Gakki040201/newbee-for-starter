@@ -6,3 +6,4 @@ git tracks changes
 check out init mkdir essential restore.
 Creating a new branch is quick. double checkout
 creat a new branch is quite simple and quick
+fuck everyone
